@@ -23,4 +23,4 @@ across regions, categories, and customer segments.
 | `Sample - Superstore.csv` | Dataset used |
 
 ## 📷 Dashboard Preview
-*(Add a screenshot of your dashboard here)*
+![Dashboard](dashboard.png)
