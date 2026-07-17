@@ -11,14 +11,13 @@ across regions, categories, and customer segments.
 - 21 columns
 
 ##  Tools Used
-- MySQL Workbench (SQL Querying)
-- SQL Concepts Used:
-  SELECT
-  WHERE
-  GROUP BY
-  ORDER BY
-  Aggregate Functions
-  CASE WHEN
+- SQL Concepts:
+  - SELECT
+  - WHERE
+  - GROUP BY
+  - ORDER BY
+  - Aggregate Functions
+  - CASE WHEN
 - Microsoft Excel (Dashboard & Visualization)
 
 ##  Key Findings
@@ -29,12 +28,26 @@ across regions, categories, and customer segments.
 
 ## Business Recommendations
 
-• Improve Furniture pricing strategy due to low profit margin.
-• Increase marketing efforts in South and Central regions where revenue is comparatively lower.
-• Continue investing in Technology products because they generate the highest profits.
-• Focus promotions on Consumer customers, as they contribute nearly half of total revenue.
+- Improve Furniture pricing strategy due to low profit margin.
 
-##  Files
+- Increase marketing efforts in South and Central regions where revenue is comparatively lower.
+
+- Continue investing in Technology products because they generate the highest profits.
+
+- Focus promotions on Consumer customers, as they contribute nearly half of total revenue.
+
+## Skills Demonstrated
+
+- SQL
+- Excel
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+
+## Files
+
+```text
 Retail-Sales-Analysis
 │
 ├── queries.sql
@@ -42,6 +55,6 @@ Retail-Sales-Analysis
 ├── Retail_Sales_Dashboard.xlsx
 ├── dashboard.png
 └── README.md
-
+```
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
